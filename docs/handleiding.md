@@ -4,4 +4,4 @@ title: Handleiding
 ---
 # Handleiding
 
-Uitleg m.b.t. het gebruik van de Imvertor SAAS omgeving
+Uitleg m.b.t. het gebruik van de Imvertor SAAS omgeving.
